@@ -2,6 +2,16 @@
 
 Flutter + Riverpod + Supabase POC for stakeholder interview / feedback collection with an admin progress dashboard.
 
+## Demo
+
+Real iOS-Simulator captures of the running app (not mockups). See [FLOW.md](FLOW.md) for how they are generated.
+
+| Surveys | Interview | Dashboard |
+| --- | --- | --- |
+| ![Surveys](screenshots/01-surveys.png) | ![Interview](screenshots/02-interview.png) | ![Dashboard](screenshots/03-dashboard.png) |
+
+![Demo](screenshots/demo.gif)
+
 ## Features
 
 - Browse a list of surveys (pulled from Supabase).
